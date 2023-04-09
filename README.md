@@ -1,2 +1,3 @@
-# github-crush-course
-github-crush-course
+# Important Instractions
+
+This is a demo repository for practicing Git & GitHub
